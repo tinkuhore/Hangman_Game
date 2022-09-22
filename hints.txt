@@ -1,0 +1,21 @@
+The most potent mathematical packages.;
+The most used deep learning framework.;
+The monster library to handle and analyze your data.;
+An optimized tensor library for DL.;
+A scientific computation library that uses NumPy underneath.;
+The most useful and robust library for ML in Python.;
+Python library for fast numerical computing created by Google.;
+Data visualization and graphical plotting library for Python.;
+Library for making statistical graphics in Python.;
+Library that evaluate mathematical operations including multi-D arrays so efficiently.;
+An open source computer vision and ML software library.;
+A computer vision and image processing library for python.;
+Toolkit for segmentation, registration and advanced image analysis.;
+Python Imaging Library (PIL) with support for opening, manipulating, and saving images.;
+Module allows you to send HTTP requests using Python.;
+Python library for pulling data out of HTML and XML files.;
+An open-source tool that automates web browsers.;
+A Python framework for large scale web scraping.;
+NOSQL cloud database.;
+Provides the facility to establish the interaction between the user and the OS.;
+An API development tool which helps to build, test and modify APIs.
